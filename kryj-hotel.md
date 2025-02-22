@@ -10,11 +10,11 @@
     <img src="src/kryj/kryj.png" alt="Image 1" width="300" height="225">
 </details>
 
-## 1. Project Scope / Client’s Problem
+## Project Scope / Client’s Problem
 
 The goal of this project was to design a fully responsive and user-friendly website prototype for a fictional hotel, **KRYJ Hotel**. The website needed to provide an intuitive booking experience, highlight hotel features, and maintain a modern aesthetic across all devices.
 
-## 2. My Role & Solution
+## My Role & Solution
 
 As the **Front-end Developer and Designer**, I worked on the website layout, UI/UX design, and implementation. My responsibilities included:
 
@@ -22,7 +22,7 @@ As the **Front-end Developer and Designer**, I worked on the website layout, UI/
 - Utilizing **Bootstrap** for mobile-friendly design.
 - Ensuring a clean, modern, and easy-to-navigate interface.
 
-## 3. My Work Process
+## My Work Process
 
 1. **Wireframing & Design**  
    - Created mockups using Figma.
