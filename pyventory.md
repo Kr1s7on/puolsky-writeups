@@ -1,15 +1,14 @@
 <h1 align="center">Pyventory</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/python-v3.1-blue.svg" alt="Python"/>
-  <img src="https://img.shields.io/badge/license-MIT-white.svg" alt="License"/>
-</p>
-
----
 
 **Duration:** May 2024 - July 2024  
 **Team Size:** 1  
 **Role:** Programmer  
 **Technologies:** Python
+
+<details>
+    <summary>Click to view project images</summary>
+    <img src="src/pyventory/pyventory.png" alt="Image 1" width="300" height="225">
+</details>
 
 ## Project Scope / Client's Problem
 
